@@ -1,0 +1,4 @@
+credentials.json
+*.zip
+__pycache__
+batch_uploader
